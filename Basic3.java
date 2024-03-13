@@ -8,7 +8,7 @@ public class Basic3 {
          if (a == b){
             System.out.println("Equal");
          }
-         else if (a >b) {
+         else if (a > b) {
             System.out.println("a is greater");
             
          } else {
