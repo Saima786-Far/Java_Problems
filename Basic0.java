@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class InputValue {
+public class Basic0 {
     
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
@@ -12,6 +12,7 @@ public class InputValue {
         //nextInt()
         //nextFloat()
         //nextDouble()
+        //nextLine()
 
        
     }
