@@ -1,0 +1,140 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Fun1",
+            "request": "launch",
+            "mainClass": "Fun1",
+            "projectName": "Java_Coding_55fa485d"
+        },
+        {
+            "type": "java",
+            "name": "Basic6",
+            "request": "launch",
+            "mainClass": "Basic6",
+            "projectName": "Java_Coding_55fa485d"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "ArrayBubbleSort",
+            "request": "launch",
+            "mainClass": "ArrayBubbleSort",
+            "projectName": "Java_Coding_55fa485d"
+        },
+        {
+            "type": "java",
+            "name": "ArrayBubbleSort1",
+            "request": "launch",
+            "mainClass": "ArrayBubbleSort1",
+            "projectName": "Java_Coding_55fa485d"
+        },
+        {
+            "type": "java",
+            "name": "ArraySelectionSort",
+            "request": "launch",
+            "mainClass": "ArraySelectionSort",
+            "projectName": "Java_Coding_55fa485d"
+        },
+        {
+            "type": "java",
+            "name": "ArraySelectionSort1",
+            "request": "launch",
+            "mainClass": "ArraySelectionSort1",
+            "projectName": "Java_Coding_55fa485d"
+        },
+        {
+            "type": "java",
+            "name": "Bike2",
+            "request": "launch",
+            "mainClass": "Bike2",
+            "projectName": "Java_Coding_55fa485d"
+        },
+        {
+            "type": "java",
+            "name": "Fibonacci",
+            "request": "launch",
+            "mainClass": "Fibonacci",
+            "projectName": "Java_Coding_55fa485d"
+        },
+        {
+            "type": "java",
+            "name": "Fibonacci1",
+            "request": "launch",
+            "mainClass": "Fibonacci1",
+            "projectName": "Java_Coding_55fa485d"
+        },
+        {
+            "type": "java",
+            "name": "Fibonacci2",
+            "request": "launch",
+            "mainClass": "Fibonacci2",
+            "projectName": "Java_Coding_55fa485d"
+        },
+        {
+            "type": "java",
+            "name": "FirstClass",
+            "request": "launch",
+            "mainClass": "FirstClass",
+            "projectName": "Java_Coding_55fa485d"
+        },
+        {
+            "type": "java",
+            "name": "Hello",
+            "request": "launch",
+            "mainClass": "Hello",
+            "projectName": "Java_Coding_55fa485d"
+        },
+        {
+            "type": "java",
+            "name": "InfiniteLoop",
+            "request": "launch",
+            "mainClass": "InfiniteLoop",
+            "projectName": "Java_Coding_55fa485d"
+        },
+        {
+            "type": "java",
+            "name": "InsertionSort",
+            "request": "launch",
+            "mainClass": "InsertionSort",
+            "projectName": "Java_Coding_55fa485d"
+        },
+        {
+            "type": "java",
+            "name": "InsertionSort1",
+            "request": "launch",
+            "mainClass": "InsertionSort1",
+            "projectName": "Java_Coding_55fa485d"
+        },
+        {
+            "type": "java",
+            "name": "Operation",
+            "request": "launch",
+            "mainClass": "Operation",
+            "projectName": "Java_Coding_55fa485d"
+        },
+        {
+            "type": "java",
+            "name": "Student5",
+            "request": "launch",
+            "mainClass": "Student5",
+            "projectName": "Java_Coding_55fa485d"
+        },
+        {
+            "type": "java",
+            "name": "lowestValue",
+            "request": "launch",
+            "mainClass": "lowestValue",
+            "projectName": "Java_Coding_55fa485d"
+        }
+    ]
+}
