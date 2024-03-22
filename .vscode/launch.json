@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "reverseString",
+            "request": "launch",
+            "mainClass": "reverseString",
+            "projectName": "Java_Coding_55fa485d"
+        },
+        {
+            "type": "java",
             "name": "StringsBuilders",
             "request": "launch",
             "mainClass": "StringsBuilders",
