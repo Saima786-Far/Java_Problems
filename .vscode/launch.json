@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "StringsBuilders",
+            "request": "launch",
+            "mainClass": "StringsBuilders",
+            "projectName": "Java_Coding_55fa485d"
+        },
+        {
+            "type": "java",
             "name": "Strings",
             "request": "launch",
             "mainClass": "Strings",
