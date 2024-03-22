@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Strings",
+            "request": "launch",
+            "mainClass": "Strings",
+            "projectName": "Java_Coding_55fa485d"
+        },
+        {
+            "type": "java",
             "name": "Fun1",
             "request": "launch",
             "mainClass": "Fun1",
